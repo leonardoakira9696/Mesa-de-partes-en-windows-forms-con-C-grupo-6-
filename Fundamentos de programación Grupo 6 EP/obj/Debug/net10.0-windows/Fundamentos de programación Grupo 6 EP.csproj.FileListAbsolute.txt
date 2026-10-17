@@ -1,0 +1,17 @@
+C:\Users\Casa\OneDrive\Documents\C#\Fundamentos de programación Grupo 6 EP\obj\Debug\net10.0-windows\Fundamentos_de_programación_Grupo_6_EP.Form1.resources
+C:\Users\Casa\OneDrive\Documents\C#\Fundamentos de programación Grupo 6 EP\obj\Debug\net10.0-windows\Fundamentos de programación Grupo 6 EP.csproj.GenerateResource.cache
+C:\Users\Casa\OneDrive\Documents\C#\Fundamentos de programación Grupo 6 EP\obj\Debug\net10.0-windows\Fundamentos de programación Grupo 6 EP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casa\OneDrive\Documents\C#\Fundamentos de programación Grupo 6 EP\obj\Debug\net10.0-windows\Fundamentos de programación Grupo 6 EP.AssemblyInfoInputs.cache
+C:\Users\Casa\OneDrive\Documents\C#\Fundamentos de programación Grupo 6 EP\obj\Debug\net10.0-windows\Fundamentos de programación Grupo 6 EP.AssemblyInfo.cs
+C:\Users\Casa\OneDrive\Documents\C#\Fundamentos de programación Grupo 6 EP\obj\Debug\net10.0-windows\Fundamentos de programación Grupo 6 EP.csproj.CoreCompileInputs.cache
+C:\Users\Casa\OneDrive\Documents\C#\Fundamentos de programación Grupo 6 EP\bin\Debug\net10.0-windows\Fundamentos de programación Grupo 6 EP.exe
+C:\Users\Casa\OneDrive\Documents\C#\Fundamentos de programación Grupo 6 EP\bin\Debug\net10.0-windows\Fundamentos de programación Grupo 6 EP.deps.json
+C:\Users\Casa\OneDrive\Documents\C#\Fundamentos de programación Grupo 6 EP\bin\Debug\net10.0-windows\Fundamentos de programación Grupo 6 EP.runtimeconfig.json
+C:\Users\Casa\OneDrive\Documents\C#\Fundamentos de programación Grupo 6 EP\bin\Debug\net10.0-windows\Fundamentos de programación Grupo 6 EP.dll
+C:\Users\Casa\OneDrive\Documents\C#\Fundamentos de programación Grupo 6 EP\bin\Debug\net10.0-windows\Fundamentos de programación Grupo 6 EP.pdb
+C:\Users\Casa\OneDrive\Documents\C#\Fundamentos de programación Grupo 6 EP\obj\Debug\net10.0-windows\Fundamentos de programación Grupo 6 EP.dll
+C:\Users\Casa\OneDrive\Documents\C#\Fundamentos de programación Grupo 6 EP\obj\Debug\net10.0-windows\refint\Fundamentos de programación Grupo 6 EP.dll
+C:\Users\Casa\OneDrive\Documents\C#\Fundamentos de programación Grupo 6 EP\obj\Debug\net10.0-windows\Fundamentos de programación Grupo 6 EP.pdb
+C:\Users\Casa\OneDrive\Documents\C#\Fundamentos de programación Grupo 6 EP\obj\Debug\net10.0-windows\Fundamentos de programación Grupo 6 EP.genruntimeconfig.cache
+C:\Users\Casa\OneDrive\Documents\C#\Fundamentos de programación Grupo 6 EP\obj\Debug\net10.0-windows\ref\Fundamentos de programación Grupo 6 EP.dll
+C:\Users\Casa\OneDrive\Documents\C#\Fundamentos de programación Grupo 6 EP\obj\Debug\net10.0-windows\Fundamen.1A80468B.Up2Date

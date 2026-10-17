@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Fundamentos de programación Grupo 6 EP/1.0.0": {
+        "runtime": {
+          "Fundamentos de programación Grupo 6 EP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fundamentos de programación Grupo 6 EP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
